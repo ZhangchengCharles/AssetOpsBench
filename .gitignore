@@ -212,3 +212,6 @@ benchmarks/harbor/datasets/
 
 # Harbor run output.
 jobs/
+
+# Local project background documents
+/ref/
