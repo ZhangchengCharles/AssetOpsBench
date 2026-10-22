@@ -1,18 +1,5 @@
 # AssetOpsBench
 
-## HPML Fall 2026 Project
-
-This fork is used for **Project 8 (Dhaval_8): Prompt Harness: Automated Prompt and Harness Optimization for Industrial Agents**.
-
-The project studies prompt and harness optimization for AssetOpsBench agents with DSPy and GEPA. It includes component ablations, reflector and budget comparisons, held-out evaluation, and rollout throughput optimization.
-
-Project background documents are stored locally in `ref/`:
-
-- `AssetOpsBench_HPML_Class_Projects_Fall2026_Proposals.pdf`
-- `Guest Speaker-DhavalPatel-projects.pdf`
-- `HPML_Project_Proposal_Prompt_Harness.pdf`
-- `HPML-Final-Project-Fall2026.pdf`
-
 ### AI Agents for Industrial Asset Operations & Maintenance
 
 *A unified, open framework for building, orchestrating, and evaluating domain-specific AI agents in Industry 4.0.*
